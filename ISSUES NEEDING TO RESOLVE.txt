@@ -1,0 +1,39 @@
+Things to update or suggestions needed.
+
+
+
+<!------Please Fix-->
+X:\TechFileStore\Tech\Training_Page\Installing_Suredocs\StepOne.html
+Need to correct the wording from "The very first step is simply," to "The very first step is simple,"
+
+<!------Please Fix-->
+X:\TechFileStore\Tech\Training_Page\Installing_Suredocs\StepOne.html
+Need to correct the wording from "Once when you are here," to " Once when you're here,"
+
+<!-------Please Add-->
+X:\TechFileStore\Tech\Training_Page\Installing_Suredocs\StepFive.html
+Here we need to add a step 5-c to show what it looks like for Firefox users
+
+<!-------Please Add-->
+X:\TechFileStore\Tech\Training_Page\Installing_Suredocs\
+Steps 1-6 needs to be updated to have whatever that is being clicked on to be all CAPITALIZED!!!!
+
+
+<!--------Please Fix-->
+X:\TechFileStore\Tech\Training_Page\Sending_Suredocs_Training\StepThree.html
+Step Three we need to capitalize the word "signature".
+
+<!-------Please Add--->
+X:\TechFileStore\Tech\Training_Page\Sending_Suredocs_Training\StepFour.html
+Need to specify that in order to get this dropdown menu that you would need to click on the arrow next to it. This would need to state too that it applies to all tags
+
+
+<!--------Please fix--->
+X:\TechFileStore\Tech\Training_Page\trainingHome.html
+The verbage for all steps needs to be corrected!!
+
+
+
+
+
+
